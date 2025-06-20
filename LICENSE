@@ -1,22 +1,25 @@
-# License MIT
+License – Case Wallet MVP for Cookathon 02
 
-This smart contract and all related code for the **StandardUserWallet MVP** are licensed under the [MIT License](LICENSE).
+Copyright (c) 2025
+The Case Wallet Project – Finalist Team of Cookathon 02
 
-You are free to:
+All rights reserved.
 
-- ✅ Use the code for educational or non-commercial purposes
-- ✅ Fork and modify the codebase for experimentation
-- ✅ Share it with proper attribution
+This smart contract and associated code were created as part of the Cookathon 02 event and are intended for evaluation by judges and educational inspiration only.
 
-You **must not**:
+You are permitted to:
 
-- ❌ Use this MVP code in production environments without additional security audits
-- ❌ Remove authorship or origin attribution from the source files
-- ❌ Commercialize this work without complying with the license terms
+- View the code and understand its structure
+- Reference the approach or logic with clear attribution
 
-> ⚠️ This code is provided **as-is**, with no warranties or guarantees. The Case team is not responsible for any loss of funds or damages resulting from its use.
+You are not permitted to:
 
----
+- Use the code or contract in any production or live environment
+- Copy, fork, modify, or redistribute this repository or its components
+- Sell, license, or incorporate this code into commercial products
 
-**Copyright © 2025  
-The Case Wallet Project – Finalist Team of Cookathon 02**
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Unauthorized use of this code or violation of these terms may result in legal consequences.
+
+For questions or special permission requests, please contact the Case team directly.
